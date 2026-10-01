@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate Market Analysis Tool",
+  "description": "Interactive business analytics dashboard for cleaning, exploring, and analyzing real estate CSV datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
